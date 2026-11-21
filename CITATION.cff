@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "cpeb4-timing-polygenic-bifurcation: Condensate–Timing–Liability model of CPEB4 microexon 4 mis-splicing in autism and schizophrenia"
+version: "v1.0.0"
+date-released: "2026-11-19"
+license: MIT
+authors:
+  - family-names: "[Author 1 surname]"
+    given-names: "[Author 1 given names]"
+  - family-names: "[Author 2 surname]"
+    given-names: "[Author 2 given names]"
+keywords:
+  - CPEB4
+  - microexon
+  - autism spectrum disorder
+  - schizophrenia
+  - biomolecular condensates
+  - polygenic risk
